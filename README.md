@@ -15,4 +15,6 @@ You should create one R script called run_analysis.R that does the following. 1.
 
 Additional Information
 
+The end result is shown in the file TidyData.txt.
+
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
